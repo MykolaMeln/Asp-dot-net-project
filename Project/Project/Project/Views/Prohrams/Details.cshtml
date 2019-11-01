@@ -1,0 +1,48 @@
+﻿@model Project.Models.Prohram
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Prohram</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.radioid)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.radioid)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name_program)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name_program)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Period)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Period)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Hour_begin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Hour_begin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Hour_end)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Hour_end)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ProgramId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

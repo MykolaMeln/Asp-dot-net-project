@@ -1,0 +1,4 @@
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.BLL\bin\Debug\netcoreapp3.0\Project.DAL.dll
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.BLL\obj\Debug\netcoreapp3.0\Project.BLL.csprojAssemblyReference.cache
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.BLL\obj\Debug\netcoreapp3.0\Project.BLL.AssemblyInfoInputs.cache
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.BLL\obj\Debug\netcoreapp3.0\Project.BLL.AssemblyInfo.cs

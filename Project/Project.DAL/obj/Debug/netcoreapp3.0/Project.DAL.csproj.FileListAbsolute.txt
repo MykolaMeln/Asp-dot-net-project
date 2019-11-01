@@ -1,0 +1,8 @@
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\bin\Debug\netcoreapp3.0\Project.DAL.deps.json
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\bin\Debug\netcoreapp3.0\Project.DAL.dll
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\obj\Debug\netcoreapp3.0\Project.DAL.csprojAssemblyReference.cache
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\obj\Debug\netcoreapp3.0\Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\obj\Debug\netcoreapp3.0\Project.DAL.AssemblyInfo.cs
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\bin\Debug\netcoreapp3.0\Project.DAL.pdb
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\obj\Debug\netcoreapp3.0\Project.DAL.dll
+C:\Users\Mykola\Desktop\C#\C#\Project\Project.DAL\obj\Debug\netcoreapp3.0\Project.DAL.pdb
