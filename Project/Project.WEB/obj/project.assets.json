@@ -8791,11 +8791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\Project.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\Project.WEB.csproj",
       "projectName": "Project.WEB",
-      "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\Project.WEB.csproj",
+      "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\Project.WEB.csproj",
       "packagesPath": "C:\\Users\\Mykola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\obj\\",
+      "outputPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8814,8 +8814,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\Project.BLL.csproj": {
-              "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\Project.BLL.csproj"
+            "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\Project.BLL.csproj": {
+              "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\Project.BLL.csproj"
             }
           }
         }

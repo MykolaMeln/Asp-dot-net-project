@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\Project.WEB.csproj": {}
+    "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\Project.WEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\Project.BLL.csproj": {
+    "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\Project.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\Project.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\Project.BLL.csproj",
         "projectName": "Project.BLL",
-        "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\Project.BLL.csproj",
+        "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\Project.BLL.csproj",
         "packagesPath": "C:\\Users\\Mykola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\obj\\",
+        "outputPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.DAL\\Project.DAL.csproj": {
-                "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.DAL\\Project.DAL.csproj"
+              "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.DAL\\Project.DAL.csproj": {
+                "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.DAL\\Project.DAL.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.DAL\\Project.DAL.csproj": {
+    "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.DAL\\Project.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.DAL\\Project.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.DAL\\Project.DAL.csproj",
         "projectName": "Project.DAL",
-        "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.DAL\\Project.DAL.csproj",
+        "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.DAL\\Project.DAL.csproj",
         "packagesPath": "C:\\Users\\Mykola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\Project.WEB.csproj": {
+    "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\Project.WEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\Project.WEB.csproj",
+        "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\Project.WEB.csproj",
         "projectName": "Project.WEB",
-        "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\Project.WEB.csproj",
+        "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\Project.WEB.csproj",
         "packagesPath": "C:\\Users\\Mykola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.WEB\\obj\\",
+        "outputPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.WEB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -172,8 +172,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\Project.BLL.csproj": {
-                "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project.BLL\\Project.BLL.csproj"
+              "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\Project.BLL.csproj": {
+                "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project.BLL\\Project.BLL.csproj"
               }
             }
           }

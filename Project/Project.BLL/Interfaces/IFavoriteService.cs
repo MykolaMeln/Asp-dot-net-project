@@ -9,7 +9,7 @@ namespace Project.BLL.Interfaces
     {
         void ChooseFavorite(FavoriteDTO faviriteDto);
         UserDTO GetFavorite(int? id);
-        IEnumerable<FavoritesDTO> GetFavorites();
+        IEnumerable<FavoriteDTO> GetFavorites();
         void Dispose();
     }
 }

@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\Mykola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mykola\\Desktop\\C#\\C#\\Project\\Project\\Project\\obj\\",
+      "outputPath": "C:\\Users\\Mykola\\Desktop\\Asp-dot-net-project\\Project\\Project\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
